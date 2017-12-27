@@ -16,7 +16,7 @@ Gostaria que alguns pontos fossem considerados:
 
 5. Decidi arriscar uma solução utilizando springboot, bootstrap e angularjs. Fiz isso devido os motivos citados acima, não adiantaria eu revisar JSP, JSF... tendo recebido a dica das tecnologias que vocês utilizam;
 
-6. Devido ao tempo que tive, não consegui colocar a imagem do produto, nem a categoria filtrável. Quando o produto é editado e deseja-se fazer uma nova adição, é necessário atualizar a página.
+6. Devido ao tempo que tive (o qual também gasto com configuração do ambiente), não consegui colocar a imagem do produto, nem a categoria filtrável. Quando o produto é editado e deseja-se fazer uma nova adição, é necessário atualizar a página;
 
 
 Espero que gostem do meu projeto e que eu tenha a chance de aprender mais com vocês!
